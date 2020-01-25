@@ -46,7 +46,7 @@ frontend:
 ```
 
 2. Go to the Community Store.
-3. Search for `Template`.
-4. Navigate to `Template` theme.
+3. Search for `DarkSteelBlueColors`.
+4. Navigate to `DarkSteelBlueColors` theme.
 5. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
