@@ -4,33 +4,35 @@
 
 ## Screenshots
 
-### Overview
+### Lights & Switches overview
 
-![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-overview.png)
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-14-33.png "Optional title")
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-14-59.png "Optional title")
 
 ### Map
 
-(https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-13-12.png)
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-13-12.png "Optional title")
 
-### Logbook
 
-![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-logbook.png)
+### Community
 
-### History
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-13-35.png "Optional title")
 
-![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-history.png)
+### Hassio
+
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-15-31.png "Optional title")
 
 ### Developer Tools
 
-![Theme - Developer Tools](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-developer-tools.png)
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-16-32.png "Optional title")
 
 ### Configuration
 
-![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-configuration.png)
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-15-41.png "Optional title")
 
-### Profile
+### Notifications
 
-![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-profile.png)
+![Alt text](https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-15-59.png "Optional title")
 
 ## Installation
 
