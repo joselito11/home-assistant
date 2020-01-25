@@ -10,7 +10,7 @@
 
 ### Map
 
-![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-map.png)
+(https://github.com/joselito11/home-assistant/blob/master/Zaslonska%20slika%202020-01-25%2012-13-12.png)
 
 ### Logbook
 
